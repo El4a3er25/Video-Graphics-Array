@@ -8,15 +8,12 @@
 
 - [Introduction](#introduction)  
 - [Design Overview](#design-overview)  
-- [Module Examples](#module-examples)  
+- [Module](#Modules)  
   - [Horizontal Counter](#horizontal-counter)  
   - [Vertical Counter](#vertical-counter)  
   - [VGA Controller](#vga-controller)  
-- [Usage](#usage)  
-- [Simulation](#simulation)  
-- [Directory Structure](#directory-structure)  
-- [License](#license)  
-
+- [Usage](#usage)   
+- [VGA Standard](#VGA-Standard)
 ---
 
 ## Introduction
